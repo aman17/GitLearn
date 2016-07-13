@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitLearn</string>
+    <string name="title_activity_not_so_main">NotSoMainActivity</string>
 </resources>
