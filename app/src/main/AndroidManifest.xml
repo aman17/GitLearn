@@ -15,6 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".NotSoMainActivity"
+            android:label="@string/title_activity_not_so_main"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
